@@ -1,0 +1,10 @@
+If songs.db contains the top 100 songs of one listener from 2018, I would characterize their audio aura to be slightly lively and enthusiastic as the average energy of songs is 0.65906.
+The listner is not so positive on spirit though, as the average valence is equal to 0.484443, but the listner is passionate and soulful since the average danceability equals 0.71646.
+The aura color of the listner according to the top 100 songs should be a mix of purple and blue.
+
+The above calculation of the aura may not be the very representative of the person for a number of reasons.
+This method only relies on factors like energy, valence and danceability of a song and not other aspects such as eroticism, love and romance, defiance and motivation. Therefore, the calculated aura may only paint part of the entire picture.
+Not every music listner uses just one music app, I myself switch between Spotify and Youtube Music as some playlists on one platform better match my moods than the other. So, to base the idea of calculating the audio aura of an individual using just one platform is not entirely correct.
+Audio aura may not be the compilation of every feeling of a person since an individual may not listen to music in every mood.
+Limiting the calculation to only the top 100 songs may not reveal the entire range of true nuture of the listner.
+Lastly, our interpretation on the basis of average values may be wrong as the feeling one gets from listening to a song is subjective. Just because the average valence is low doesn't mean the person is sadistic, it may be that the listner finds happiness and joy in those songs.
